@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "title": "BMW X8",
+      "description": "Sell",
+      "image": "https://resizer.mail.ru/p/1986ca45-288f-5521-86f8-e4e734ac27bf/AQABtnwaKDfn6seM_kfro683LSh5F7uwV47nwPyigzF7uWYgtShmvckpywscfSwKKweTN4Xk_F4wTKc3CzQ2glzAhqw.jpg",
+      "price": "250 000$$",
+      "id": 9
+    },
+    {
+      "title": "Lexus 600",
+      "description": "Sell",
+      "image": "https://autodd.b-cdn.net/wp-content/uploads/2022/01/lexus_lx_600_1.jpg",
+      "price": "200 000$$",
+      "id": 12
+    },
+    {
+      "title": "BMW X7",
+      "description": "Sell",
+      "image": "https://www.thedrive.com/uploads/2023/05/23/2023-bmw-x7-760i-suv-review-jerry-perez-the-drive-20.jpg?auto=webp",
+      "price": "100 000$",
+      "id": 13
+    },
+    {
+      "title": "BMW X6",
+      "description": "Sell",
+      "image": "https://im.mashina.kg/tachka/images//5/4/b/54b7e539aa1aae7c514ae5ac41c40d5a_640x480.jpg",
+      "price": "80 000$",
+      "id": 14
+    },
+    {
+      "title": "BMW X5",
+      "description": "Sell",
+      "image": "https://www.actualidadmotor.com/wp-content/uploads/2022/02/BMW-X5-2023-Portada-2048x1229.jpg",
+      "price": "90 000$",
+      "id": 15
+    },
+    {
+      "title": "LEXUS LX 570",
+      "description": "Sell",
+      "image": "https://klassen.de/media/images/armored/llx570/main.jpg",
+      "price": "150 000$",
+      "id": 16
+    },
+    {
+      "title": "TOYOYA HIGHLANDER",
+      "description": "Sell",
+      "image": "https://images.prismic.io/carwow/78ff7d17-9302-4feb-a8ec-e316058cdbd8_2022+Toyota+Highlander+Front+3Q+Moving.jpg?fit=clip&q=60&w=750&cs=tinysrgb&auto=format",
+      "price": "40 000$",
+      "id": 17
+    },
+    {
+      "title": "TOYOYA CAMRY 75",
+      "description": "Sell",
+      "image": "https://www.cnet.com/a/img/resize/4476006d1312ec379ee616af256b7596321b3742/hub/2021/08/20/257caf0a-f3a2-45db-9c70-d6ed50a85e6f/2021-toyota-camry-trd-ogi-1.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "price": "40 000$",
+      "id": 18
+    },
+    {
+      "title": "TOYOYA YARIS",
+      "description": "Sell",
+      "image": "https://www.topgear.com/sites/default/files/2022/06/1-Toyota-Yaris.jpg",
+      "price": "15 000$",
+      "id": 19
+    },
+    {
+      "title": "TESLA MODEL Y",
+      "description": "Sell",
+      "image": "https://www.ixbt.com/img/n1/news/2022/0/4/tesla-roadster_large.jpg",
+      "price": "100 000$",
+      "id": 20
+    },
+    {
+      "title": "AUDI R8",
+      "description": "Sell",
+      "image": "https://www.autotrader.com/wp-content/uploads/2023/02/2023-audi-r8-coupe-right-side.jpg",
+      "price": "100 000 000$",
+      "id": 21
+    },
+    {
+      "title": "AUDI TT QUATRO",
+      "description": "Sell",
+      "image": "https://car-images.bauersecure.com/wp-images/10291/0000901ae9f1-84f3-40a2-9.jpg",
+      "price": "100 500 000$",
+      "id": 23
+    },
+    {
+      "title": "AUDI A7 LIFTBEK",
+      "description": "Sell",
+      "image": "https://avto.tatar/attachments/a20b5cc8c893c9e91e25cc65e04d18a548de0db1/store/a22206c1ae3e6ec1400f8efa51c824a01502c4740c2bde1f3add897bd3a2/Audi+A7+1.jpg",
+      "price": "7 000 000 RUB",
+      "id": 24
+    },
+    {
+      "title": "MERSEDES-BENZ E 210",
+      "description": "SELL FOR REALLY MANS",
+      "image": "https://i.cars.kg/preview/r/fjnvPStH7RAEpOL0_izF3w/1080x-/20180607/489ac222b7ff4340853246044862be26.jpg",
+      "price": "15 000$",
+      "id": 25
+    },
+    {
+      "title": "MERSEDES BANAN",
+      "description": "SELL FOR REALLY MANS",
+      "image": "https://im.mashina.kg/tachka/images//c/8/a/c8a999cac4984f3485f600a15044d283_640x480.jpg",
+      "price": "35 000$",
+      "id": 26
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
